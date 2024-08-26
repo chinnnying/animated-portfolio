@@ -10,14 +10,14 @@ import { Navigation, Pagination } from 'swiper/modules';
 const projects = [
     {
         id: 1,
-        images: ["/exp_formosa.webp"],
+        images: ["/Lenexa-logo.png"],
         images_desc: ["ongoing project..."],
-        title: 'Ongoing: Formosa Massage Data Pineline',
+        title: 'Ongoing: Lenexa Medical Dashboard with tableau',
         type: 'python',
         language: 'SQL',
-        technology: 'Visualisation',
-        description: 'Formosa Massage is a massage therapy located in TAS. The project is to build a data pipeline to collect data from the shop\'s booking system, and then analyse the data to provide insights for the shop owner to make business decisions.',
-        link: 'https://formosamassagetherapy.com.au/'
+        technology: 'Tableau',
+        description: 'Building an interactive dashboard to replace current reports. Dashboard will be used by clients to monitor their performance and make data-driven decisions to avoid pressure injury.',
+        link: 'https://lenexamedical.com/'
       },
     {
       id: 2,

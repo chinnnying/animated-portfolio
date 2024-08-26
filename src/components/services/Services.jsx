@@ -43,9 +43,9 @@ const honorsData = {
   };
 
   const expData = {
-    'Freelance Data Engineer @ Formosa Massage Therapy': {
-      description: 'Developing a automatic data pipeline for the business to collect and analyse sales and customer data. Designing a relational database to store the data in a more structured way than current setup.',
-      imageUrl: "/exp_formosa.webp", 
+    'Data Science Intern @ Lenexa Medical': {
+      description: 'Developing a automatic data pipeline for the business to present data visualisation with tableau (from AWS to tableau server). Cleaning and wrangling data with Python and SQL querys and optimising queries and memory use to reduce cost.',
+      imageUrl: "/Lenexa-logo.png", 
     },
     'Administrative Assistant @ Airoha Technology Corp.': {
         description: 'File management, data entry and data management for over 20 years of files for a 1000-5000 size corportate.',
@@ -202,7 +202,7 @@ const Services = () => {
                     <h2><FontAwesomeIcon icon={faLaptop} /> </h2>
                     <h3>Experience</h3>
                     <ul>
-                        <li>Freelance Data Engineer @ Formosa Massage Therapy</li>
+                        <li>Data Scientist Intern @ Lenexa Medical</li>
                         <li>Administrative Assistant @ Airoha Technology Corp.</li>
                         <li>Office Assistant @ NIA Taiwan</li>
                     </ul>
